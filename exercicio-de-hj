@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <p>Você pode acessar o meu <a href="https://github.com/edwa7dlucas/lucasedward-frontEnd" target="_blank" rel="external">Meu perfil no GitHub</a></p>
+    <p>Você também pode acessar a</a> <a href="https://www.youtube.com/?gl=BR&hl=PT" target="_blank" rel="external"></a>Pagina inícial do youtube</p>
+
+    <h1>Usando links internos</h1>
+    <p>Esta é a primeira página do site. Se você quiser, pode acessar também a minha <a href="siga-meNoInsta=@edwa7d_lucasx" rel="next" target="_self">Clique Aqui</a></p>
+    <p>Você também pode acessar a  <a href="https://www.instagram.com/" rel="next" target="_self"> Pagína do instagram</a></p>
+
+    <h1>Links para download</h1>
+    <ul>
+        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application/pdf">Baixar o livro em PDF</a></li>
+        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Livro compactado em ZIP</a></li>
+    </ul>
+</body>
+</html>
