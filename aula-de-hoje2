@@ -1,0 +1,161 @@
+
+</html> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main>
+    <header>
+            <h1></h1>
+        <nav>
+            <ul>
+                <li><h2><a href="#">Esta é a Página inícial &#x200D;</a></h2></li>
+                <li><h3><a heref="#">Nossos Produtos &#x1F4CC;</a></h3></li>
+                <li><h3><a heref="#">Sobre nós &#x1F465;</a></h3></li>
+                <li><h4><a heref="#">Contato:5112345678 &#x1F4DE;</a></h4></li>
+            </ul>
+        </nav>
+    </header>
+</main>
+</body>
+</html>
+
+
+
+<!--
+</html> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <ul>
+                <a href="https://www.instagram.com/">Página inícial</a>
+                <a heref="https://www.instagram.com/">Produtos</a>
+                <a heref="https://www.instagram.com/">Sobre nós</a>
+                <a heref="https://www.instagram.com/">Contato</a>
+            </ul>
+        </nav>
+    </header>
+</main>
+</body>
+</html>
+-->
+
+
+
+
+header {
+    background-image: url(data:image/jpeg;base64,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) ;
+    
+    
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    padding: 10px; text-align: center;
+}
+
+    nav ul  {
+        list-style-type: nome;
+    }
+    
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+    nav ul li a {
+        text-decoration:nome;
+        color: rgb(255, 255, 255);
+        font-weight:bolder;
+    }
+
+    van ul li a:houver {
+        color: rgb(255, 239, 239);
+        text-decoration: underline;
+    }
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <STYLE>
+        BODY {
+            font-style: Arial, helvetica, sans-serif;
+            background-color: black;
+            color: brown;
+        }
+    </STYLE>
+    
+</head>
+<body style="front-family: arial, heletica, sens-serif; color:rgb(30, 0, 255);"></bodystyle>
+    <h1 style="color:brown;">Capítulo 1</h1>
+    <h2 style="color:rgb(238, 0, 255);">Capítulo 1.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque laudantium iure quos quibusdam impedit vitae laboriosam voluptatibus praesentium, provident temporibus! Eos voluptatibus iste nostrum culpa ratione sunt praesentium necessitatibus laboriosam?</p>
+    <h2>Capítulo 1.2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti ab possimus explicabo officiis quae neque debitis, ad facere laudantium reprehenderit. Reiciendis perferendis dolore voluptates nobis incidunt? Id earum provident porro!</p>
+    <h1>Capítulo 2</h1>
+    <h2>CApítulo 2.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error sequi ab. Ex laborum dicta unde! Odit, sint, reiciendis consequatur labore, minus explicabo ratione nostrum cum omnis veritatis atque provident.</p>
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+    <style>
+      body {
+
+      }
+    
+      
+    </style>
+</html>
+
+
+
+
+
+
+
+body {
+    background-color: blue;lightgoldenrodyellow;
+    color:brown:chocolate;
+    font-size: 10pt;
+    font-family:Arial;
+}
+
+{
+    color: 
+}
